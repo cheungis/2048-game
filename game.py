@@ -391,5 +391,6 @@ class Game():
 
 def main():
     game = Game()
+    input('press any key to close')
 
 main()
